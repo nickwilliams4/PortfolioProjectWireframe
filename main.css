@@ -16,8 +16,10 @@ img {
 .image {
   background: rgb(114, 114, 114);
   display: inline;
-  margin: 50px;
-  padding: 20px;
+}
+.buttons {
+  background: grey;
+  display: inline;
 }
 .container {
   flex: 1;
